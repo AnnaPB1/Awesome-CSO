@@ -198,6 +198,7 @@ A curated list of resources for Chief Security Officers and aspiring security le
 ### Resources
 - [Compliance Program Assessment Framework](https://www.justice.gov/criminal-fraud/page/file/937501/download) - DOJ framework for evaluating compliance programs
 - [ISACA Control Objectives](https://www.isaca.org/resources/insights-and-expertise/control-objectives) - Guide for control objectives
+- [The Authorization Maturity Model: A CISO's Benchmark](https://solutions.cerbos.dev/authorization-maturity-model-a-cisos-benchmark) - 4-stage benchmark for assessing authorization program maturity
 
 ### Books & Publications
 - [Corporate Governance of Cybersecurity](https://www.amazon.com/Corporate-Governance-Cybersecurity-Cybersecurity-Boardroom/dp/1119679621/) - Guide for board-level cybersecurity governance
